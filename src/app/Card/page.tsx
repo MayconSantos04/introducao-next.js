@@ -8,6 +8,7 @@ export default function Page() {
           title={"Atidade 21"}
           image={"/favicon.ico"}
           description={"Olá, mim chamo Maycon!"}
+          category={"Livro"}
         />
     </div>
   );
