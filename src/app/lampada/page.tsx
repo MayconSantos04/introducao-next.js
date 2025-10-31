@@ -1,3 +1,13 @@
+feature/lampada
+import Lampada from "@/components/Lampada";
+
+export default function Page() {
+    return(
+        <div>
+            <Lampada />
+        </div>
+    )
+
 "use client";
 
 import { useState } from "react";
@@ -35,4 +45,5 @@ export default function LampadaPage() {
       />
     </div>
   );
+ main
 }
